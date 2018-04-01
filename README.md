@@ -1,6 +1,6 @@
 appengine-php-guestbook
 ================================
 
-Guestbook demo for Google App Engine that uses PHP
+This gae-app parses a RSS feed and the displays it as HTML code.
 
 Adapted from https://github.com/akras14/eznews
