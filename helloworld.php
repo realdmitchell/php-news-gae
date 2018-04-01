@@ -104,7 +104,7 @@
                             $html .= '<ul>';
                             foreach($rss->channel->item as$item) {
                                 $count++;
-                                if($count > 3){
+                                if($count > 9){
                                     break;
                                 }
 //                                 $html .= '<br>'.htmlspecialchars($item->description).'<li><a href="'.htmlspecialchars($item->link).'">'.htmlspecialchars($item->title).'</a></li><br>';
