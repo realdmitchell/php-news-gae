@@ -1,3 +1,5 @@
+# Also backup for lineageos images
+
 appengine-php-guestbook
 ================================
 
